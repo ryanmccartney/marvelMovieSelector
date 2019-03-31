@@ -1,0 +1,36 @@
+{
+    "marvel":[{
+        "phase":1,
+        "movies":[     
+            {"title":"Iron Man"},
+            {"title":"The Incredible Hulk"},
+            {"title":"Iron Man 2"},
+            {"title":"Thor"},
+            {"title":"Captain America: The First Avenger"},
+            {"title":"Marvel's The Avengers"}]
+    },
+    {
+        "phase":2,
+        "movies":[
+            {"title":"Iron Man 3"},
+            {"title":"Thor The Dark World"},
+            {"title":"Captain America The Winter Soldier"},
+            {"title":"Guardians of the Galaxy"},
+            {"title":"Avengers Age of Ultron"},
+            {"title":"Ant-Man"}]
+    },
+    {
+        "phase":3,
+        "movies":[
+            {"title":"Captain America: Civil War"},
+            {"title":"Doctor Strange"},
+            {"title":"Guardians of the Galaxy Vol. 2"},
+            {"title":"Spider-Man Homecoming"},
+            {"title":"Thor: Ragnarok"},
+            {"title":"Black Panther"},
+            {"title":"Avengers Infinity War"},
+            {"title":"Ant-Man and the Wasp"},
+            {"title":"Captain Marvel"},
+            {"title":"Avengers Endgame"}]
+    }]
+}
