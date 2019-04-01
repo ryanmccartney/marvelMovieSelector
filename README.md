@@ -6,4 +6,5 @@ Why not?
 
 # How does it work?
 Need I explain?
+
 ![Screenshot](/sample.JPG)
