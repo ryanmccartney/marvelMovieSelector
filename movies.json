@@ -2,35 +2,104 @@
     "marvel":[{
         "phase":1,
         "movies":[     
-            {"title":"Iron Man"},
-            {"title":"The Incredible Hulk"},
-            {"title":"Iron Man 2"},
-            {"title":"Thor"},
-            {"title":"Captain America: The First Avenger"},
-            {"title":"Marvel's The Avengers"}]
+            {"title":"Iron Man",
+             "cover":"covers/ironman.jpg",
+             "year":2008   
+            },
+            {"title":"The Incredible Hulk",
+             "cover":"covers/hulk.jpg",
+             "year":2008
+            },
+            {"title":"Iron Man 2",
+             "cover":"covers/ironman2.jpg",
+             "year":"2010"
+            },
+            {"title":"Thor",
+             "cover":"covers/thor.jpg",
+             "year":"2011"
+            },
+            {"title":"Captain America: The First Avenger",
+             "cover":"covers/captainamerica.jpg",
+             "year":"2012"
+            },
+            {"title":"Marvel's The Avengers",
+             "cover":"covers/theavengers.jpg",
+             "year":"2012"
+            }
+        ]
     },
     {
         "phase":2,
         "movies":[
-            {"title":"Iron Man 3"},
-            {"title":"Thor The Dark World"},
-            {"title":"Captain America The Winter Soldier"},
-            {"title":"Guardians of the Galaxy"},
-            {"title":"Avengers Age of Ultron"},
-            {"title":"Ant-Man"}]
+            {"title":"Iron Man 3",
+             "cover":"covers/ironman3.jpg",
+             "year":"2012"
+            },
+            {"title":"Thor The Dark World",
+             "cover":"covers/thordarkworld.jpg",
+             "year":"2012"
+            },
+            {"title":"Captain America The Winter Soldier",
+             "cover":"covers/wintersoldier.jpg",
+             "year":"2014"
+            },
+            {"title":"Guardians of the Galaxy",
+             "cover":"covers/gotg.jpg",
+             "year":"2016"
+            },
+            {"title":"Avengers Age of Ultron",
+             "cover":"covers/ultron.jpg",
+             "year":"2017"
+            },
+            {"title":"Ant-Man",
+             "cover":"covers/antman.jpg",
+             "year":"2018"
+            }
+        ]
     },
     {
         "phase":3,
         "movies":[
-            {"title":"Captain America: Civil War"},
-            {"title":"Doctor Strange"},
-            {"title":"Guardians of the Galaxy Vol. 2"},
-            {"title":"Spider-Man Homecoming"},
-            {"title":"Thor: Ragnarok"},
-            {"title":"Black Panther"},
-            {"title":"Avengers Infinity War"},
-            {"title":"Ant-Man and the Wasp"},
-            {"title":"Captain Marvel"},
-            {"title":"Avengers Endgame"}]
+            {"title":"Captain America: Civil War",
+             "cover":"covers/civilwar.jpg",
+             "year":""
+            },
+            {"title":"Doctor Strange",
+             "cover":"covers/doctorstrange.jpg",
+             "year":""
+            },
+            {"title":"Guardians of the Galaxy Vol. 2",
+             "cover":"covers/gotgv2.jpg",
+             "year":""
+            },
+            {"title":"Spider-Man Homecoming",
+             "cover":"covers/spidermanhome.jpg",
+             "year":""
+            },
+            {"title":"Thor Ragnarok",
+             "cover":"covers/thorrag.jpg",
+             "year":""
+            },
+            {"title":"Black Panther",
+             "cover":"covers/blackpanther.jpg",
+             "year":""
+            },
+            {"title":"Avengers Infinity War",
+             "cover":"covers/infinitywar.jpg",
+             "year":"2018"
+            },
+            {"title":"Ant-Man and the Wasp",
+             "cover":"covers/antmanwasp.jpg",
+             "year":"2018"
+            },
+            {"title":"Captain Marvel",
+             "cover":"covers/captainmarvel.jpg",
+             "year":"2019"
+            },
+            {"title":"Avengers Endgame",
+             "cover":"covers/endgame.jpg",
+             "year":"2019"
+             }
+        ]
     }]
 }
